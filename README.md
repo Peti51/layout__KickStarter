@@ -4,4 +4,4 @@ The form validation script ensures that the user provides a name and email befor
 
 The card carousel allows the user to navigate through multiple cards. By clicking the next button, the displayed card changes, and the corresponding number updates. The carousel also supports backward navigation by clicking the previous button. The script keeps track of the current card using a count variable and updates the visibility of the cards accordingly.
 
-Demolink: "https://Peti51.github.io/Kickstarter/"
+Demolink: "https://Peti51.github.io/layout__KickStarter/"
