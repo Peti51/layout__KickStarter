@@ -18,6 +18,10 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
+
+      &-photo {
+        object-fit: contain;
+      }
     }
 
     &-second-card {

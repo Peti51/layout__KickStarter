@@ -1,8 +1,11 @@
 .link-line {
-
+  &::after {
+    transition: width 0.3s ease;
+  }
   &:hover {
     &::after {
       width: 124px;
+      transition: width 0.3s ease;
     }
   }
 }
