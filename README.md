@@ -1,36 +1,16 @@
-The landing page features a form and a card carousel. The script included on the page enhances the user experience and provides functionality to the form and card carousel.
+The website utilizes various HTML elements, CSS styles, and JavaScript code to create the structure, design, and functionality of the site. It uses responsive design techniques to ensure the website adapts well to different screen sizes and devices.
 
-The form validation script ensures that the user provides a name and email before submitting the form. If either field is left empty, error messages are displayed, and the form submission is prevented until the required information is provided. Upon submission, the form is reset, ready for the next entry.
+Regarding the technologies used in this project, here are some key points:
 
-The card carousel allows the user to navigate through multiple cards. By clicking the next button, the displayed card changes, and the corresponding number updates. The carousel also supports backward navigation by clicking the previous button. The script keeps track of the current card using a count variable and updates the visibility of the cards accordingly.
+HTML: The website structure and content are created using HTML (Hypertext Markup Language). HTML tags are used to define elements such as headers, paragraphs, images, links, forms, and more.
 
-1. Implement the header with `nav`.
-1. Implement `Benefits` block.
-1. Implement `Presentation` block.
-1. Implement `About us` block.
-1. Implement `Technology` block.
-1. Implement `Testimonilas` block.
-1. Implement `Features` block.
-1. Implement `Questions` block
-1. Implement the footer.
+CSS: The website's visual appearance and layout are defined using CSS (Cascading Style Sheets). CSS styles are applied to HTML elements to control their presentation, including fonts, colors, positioning, and responsiveness.
 
+JavaScript: The JavaScript code in the provided script file (main.js) adds interactivity and functionality to the website. It includes event listeners for form submission and button clicks, form validation, and a slideshow effect for the features section.
 
-## Github flow
+Responsive Design: The website is designed to be responsive, meaning it adjusts its layout and content to provide an optimal viewing experience on different devices and screen sizes. This is achieved using CSS media queries and responsive design techniques.
 
-1. **Fork** the repo.
-2. **Clone** the forked one. (The project link should have your name but not `mate-academy`)
-3. Run `npm install` (or just `npm i`)
-4. Run `npm start`.
-5. Open one more terminal window for the next steps
-6. `git checkout -b develop` - to create new branch and switch on it
-7. Write you code in `src` folder
-8. Run `npm run lint` and fix code style errors.
-9. Run `npm run deploy` to deploy your solution to `gh-pages`
-10. `git add . && git commit -m 'solution'` to save your changes
-11. `git push origin develop` - to send you code for PR
-12. Create a Pull Request (PR) from your branch `develop` to branch `master` of original repo.
-13. Replace `<your_account>` with your Github username in the
-  [DEMO LINK](https://Peti51.github.io/Kickstarter/)
-14. Copy `DEMO LINK` to the PR description
+External Libraries and Resources: The website includes external resources such as Google Fonts for custom fonts, font icons, and images hosted on external servers.
+[DEMO LINK](https://Peti51.github.io/layout__KickStarter/)
 
-> To update you PR repeat steps 7-11
+The original design: https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?type=design&node-id=19655-32&mode=design&t=83FB5kdlBz2JatY2-0
